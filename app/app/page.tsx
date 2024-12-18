@@ -14,13 +14,13 @@ export default function Home() {
         />
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">
-           Eric Get started by editing{" "}
+           Eric Get started by editing on 12/18{" "}
             <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
               app/page.tsx
             </code>
             .
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li>Save and see your changes instantly NEE CK R.</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
